@@ -1,0 +1,19 @@
+# kyu8
+## counting-sheep JavaScript
+## opposite-number PHP
+## reversed-strings PHP
+## remove-first-and-last-character PHP
+## convert-boolean-values-to-strings-yes-or-no PHP
+## convert-a-number-to-a-string PHP
+## grasshopper-summation PHP
+## remove-string-spaces PHP
+## square-n-sum PHP
+## find-the-smallest-integer-in-the-array PHP
+## is-n-divisible-by-x-and-y PHP
+## century-from-year PHP
+## keep-hydrated PHP
+## basic-mathematical-operations PHP
+## abbreviate-a-two-word-name PHP
+## convert-a-string-to-a-number PHP
+## a-needle-in-the-haystack PHP
+## beginner-lost-without-a-map PHP

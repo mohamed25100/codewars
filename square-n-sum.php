@@ -1,0 +1,14 @@
+<?php
+/*
+DESCRIPTION:
+Complete the square sum function so that it squares each number passed into it and then sums the results together.
+
+For example, for [1, 2, 2] it should return 9 because 1^2 + 2^2 + 2^2 = 9.
+*/
+function square_sum($numbers)  {
+    $a = NULL;
+    foreach ($numbers as $value){
+      $a += $value**2;
+    }
+    return $a;
+  }
