@@ -24,3 +24,8 @@
 ### you-only-need-one-beginner PHP
 ### calculate-average PHP
 ### fake-binary PHP
+### reversed-words PHP
+### reversed-sequence PHP
+### beginner-series-1-school-paperwork PHP
+### even-or-odd JavaScript
+### even-or-odd PHP
