@@ -29,3 +29,7 @@
 ### beginner-series-1-school-paperwork PHP
 ### even-or-odd JavaScript
 ### even-or-odd PHP
+### sum-of-positive JavaScript
+### return-negative JavaScript
+### return-negative PHP
+### opposites-attract PHP
