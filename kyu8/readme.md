@@ -33,3 +33,8 @@
 ### return-negative JavaScript
 ### return-negative PHP
 ### opposites-attract PHP
+### jenny-s-secret-message PHP
+### beginner-reduce-but-grow PHP
+### Is-he-gonna-survive PHP
+### dna-to-rna-conversion PHP
+### grasshopper-grade-book PHP
