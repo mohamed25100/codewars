@@ -38,3 +38,9 @@
 ### Is-he-gonna-survive PHP
 ### dna-to-rna-conversion PHP
 ### grasshopper-grade-book PHP
+### get-the-mean-of-an-array PHP
+### sum-arrays PHP
+### find-maximum-and-minimum-values-of-a-list PHP
+### sum-without-highest-and-lowest-number PHP
+### count-the-monkeys PHP
+### if-you-can-t-sleep-just-count-sheep PHP
