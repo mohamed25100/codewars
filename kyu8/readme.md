@@ -44,3 +44,19 @@
 ### sum-without-highest-and-lowest-number PHP
 ### count-the-monkeys PHP
 ### if-you-can-t-sleep-just-count-sheep PHP
+### total-amount-of-points JavaScript
+### total-amount-of-points PHP
+### do-i-get-a-bonus PHP
+### sentence-smash PHP
+### rock-paper-scissors PHP
+### count-by-x PHP
+### sum-mixed-array PHP
+### will-there-be-enough-space PHP
+### you-can-t-code-under-pressure-1 PHP
+### area-or-perimeter PHP
+### powers-of-2 JavaScript
+### how-many-stairs-will-suzuki-climb-in-20-years PHP
+### the-feast-of-many-beasts PHP
+### convert-a-boolean-to-a-string PHP
+### is-the-string-uppercase PHP
+### fixme-replace-all-dots
