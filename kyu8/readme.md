@@ -60,3 +60,16 @@
 ### convert-a-boolean-to-a-string PHP
 ### is-the-string-uppercase PHP
 ### fixme-replace-all-dots
+### expressions-matter PHP
+### are-you-playing-banjo JavaScript
+### get-planet-name-by-id JavaScript
+### i-love-you-a-little-a-lot-passionately-not-at-all JavaScript
+### perimeter-sequence JavaScript
+### perimeter-sequence PHP
+### count-odd-numbers-below-n PHP
+### function-3-multiplying-two-numbers PHP
+### function-3-multiplying-two-numbers Python
+### function-3-multiplying-two-numbers C
+### holiday-vi-shark-pontoon PHP
+### l1-set-alarm PHP
+### bin-to-decimal PHP
