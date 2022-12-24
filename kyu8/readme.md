@@ -19,7 +19,7 @@
 ### beginner-lost-without-a-map PHP
 ### returning-strings PHP
 ### beginner-series-2-clock PHP
-### Count-of-positives-sum-of-negatives PHP
+### count-of-positives-sum-of-negatives PHP
 ### invert-values PHP
 ### you-only-need-one-beginner PHP
 ### calculate-average PHP
@@ -73,3 +73,6 @@
 ### holiday-vi-shark-pontoon PHP
 ### l1-set-alarm PHP
 ### bin-to-decimal PHP
+### ce-s-r-d-strings js
+### 101-dalmatians-squash-the-bugs-not-the-dogs PHP
+### grasshopper-debug-sayhello PHP
