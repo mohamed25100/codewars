@@ -76,3 +76,6 @@
 ### ce-s-r-d-strings js
 ### 101-dalmatians-squash-the-bugs-not-the-dogs PHP
 ### grasshopper-debug-sayhello PHP
+### quarter-of-the-year PHP
+### quarter-of-the-year JavaScript
+### determine-offspring-sex-based-on-genes-xx-and-xy-chromosomes PHP
