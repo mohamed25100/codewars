@@ -79,3 +79,4 @@
 ### quarter-of-the-year PHP
 ### quarter-of-the-year JavaScript
 ### determine-offspring-sex-based-on-genes-xx-and-xy-chromosomes PHP
+### pythagorean-triple JavaScript
