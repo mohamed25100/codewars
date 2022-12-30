@@ -79,4 +79,6 @@
 ### quarter-of-the-year PHP
 ### quarter-of-the-year JavaScript
 ### determine-offspring-sex-based-on-genes-xx-and-xy-chromosomes PHP
+### cat-years-dog-years JAVA
+### cat-years-dog-years JavaScript
 ### pythagorean-triple JavaScript
