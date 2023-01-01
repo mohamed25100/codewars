@@ -82,6 +82,7 @@
 
 ### volume-of-a-cuboid PHP
 ### lario-and-muigi-pipe-problem PHP
+### basic-variable-assignment PHP
 
 
 ### cat-years-dog-years JAVA
