@@ -83,7 +83,9 @@
 ### volume-of-a-cuboid PHP
 ### lario-and-muigi-pipe-problem PHP
 ### basic-variable-assignment PHP
-
+### Grasshopper-Check-for-factor PHP
+### To-square-root-or-not-to-square-root PHP
+### Parse-nice-int-from-char-problem PHP
 
 ### cat-years-dog-years JAVA
 ### cat-years-dog-years JavaScript
