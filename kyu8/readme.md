@@ -86,6 +86,9 @@
 ### Grasshopper-Check-for-factor PHP
 ### To-square-root-or-not-to-square-root PHP
 ### Parse-nice-int-from-char-problem PHP
+### twice-as-old PHP
+### pillars PHP
+### points-of-reflection PHP
 
 ### cat-years-dog-years JAVA
 ### cat-years-dog-years JavaScript
