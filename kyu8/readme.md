@@ -89,6 +89,8 @@
 ### twice-as-old PHP
 ### pillars PHP
 ### points-of-reflection PHP
+### short-long-short JavaScript
+### short-long-short PHP
 
 ### cat-years-dog-years JAVA
 ### cat-years-dog-years JavaScript
