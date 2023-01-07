@@ -95,5 +95,8 @@
 ### cat-years-dog-years JAVA
 ### cat-years-dog-years JavaScript
 ### pythagorean-triple JavaScript
+### you-re-a-square JavaScript
+### give-a-shout-to-your-friend-walking-towards-you JavaScript
+### heron-s-formula JavaScript
 
 ### dna-to-rna-conversion JavaScript
