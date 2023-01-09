@@ -80,6 +80,7 @@
 ### quarter-of-the-year JavaScript
 ### determine-offspring-sex-based-on-genes-xx-and-xy-chromosomes PHP
 
+
 ### volume-of-a-cuboid PHP
 ### lario-and-muigi-pipe-problem PHP
 ### basic-variable-assignment PHP
@@ -92,12 +93,21 @@
 ### short-long-short JavaScript
 ### short-long-short PHP
 ### correct-the-mistakes-of-the-character-recognition-software PHP
+
+
+### third-angle-of-a-triangle SQL
+
+
+### multiply JavaScript
+### multiply PHP
+### multiply Python
+### multiply SQL
+### multiply Java
+### fuel-calculator PHP
 ### cat-years-dog-years JAVA
 ### cat-years-dog-years JavaScript
 ### pythagorean-triple JavaScript
 ### you-re-a-square JavaScript
 ### give-a-shout-to-your-friend-walking-towards-you JavaScript
 ### heron-s-formula JavaScript
-### third-angle-of-a-triangle SQL
-
 ### dna-to-rna-conversion JavaScript
