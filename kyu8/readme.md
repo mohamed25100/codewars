@@ -36,7 +36,7 @@
 ### jenny-s-secret-message PHP
 ### beginner-reduce-but-grow PHP
 ### Is-he-gonna-survive PHP
-### dna-to-rna-conversion PHP
+
 ### grasshopper-grade-book PHP
 ### get-the-mean-of-an-array PHP
 ### sum-arrays PHP
@@ -96,18 +96,18 @@
 
 
 ### third-angle-of-a-triangle SQL
-
-
-### multiply JavaScript
-### multiply PHP
-### multiply Python
-### multiply SQL
+### third-angle-of-a-triangle PHP
 ### multiply Java
+### multiply SQL
+### multiply Python
+### multiply PHP
+### multiply JavaScript
 ### fuel-calculator PHP
-### cat-years-dog-years JAVA
 ### cat-years-dog-years JavaScript
+### cat-years-dog-years JAVA
 ### pythagorean-triple JavaScript
 ### you-re-a-square JavaScript
 ### give-a-shout-to-your-friend-walking-towards-you JavaScript
 ### heron-s-formula JavaScript
 ### dna-to-rna-conversion JavaScript
+### dna-to-rna-conversion PHP
