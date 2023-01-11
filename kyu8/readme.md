@@ -95,6 +95,7 @@
 ### correct-the-mistakes-of-the-character-recognition-software PHP
 
 
+### makeuppercase SQL
 ### third-angle-of-a-triangle SQL
 ### third-angle-of-a-triangle PHP
 ### multiply Java
