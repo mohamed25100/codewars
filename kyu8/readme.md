@@ -95,6 +95,8 @@
 ### correct-the-mistakes-of-the-character-recognition-software PHP
 
 
+### string-repeat SQL
+### string-repeat PHP
 ### makeuppercase SQL
 ### third-angle-of-a-triangle SQL
 ### third-angle-of-a-triangle PHP
