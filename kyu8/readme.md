@@ -94,7 +94,8 @@
 ### short-long-short PHP
 ### correct-the-mistakes-of-the-character-recognition-software PHP
 
-
+### will-you-make-it PHP
+### will-you-make-it SQL
 ### string-repeat SQL
 ### string-repeat PHP
 ### makeuppercase SQL
