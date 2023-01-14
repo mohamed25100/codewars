@@ -94,6 +94,8 @@
 ### short-long-short PHP
 ### correct-the-mistakes-of-the-character-recognition-software PHP
 
+### adults-only-sql-for-beginners-1 SQL
+### keep-up-the-hoop JavaScript
 ### will-you-make-it PHP
 ### will-you-make-it SQL
 ### string-repeat SQL
