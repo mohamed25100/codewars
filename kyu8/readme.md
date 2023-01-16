@@ -94,7 +94,8 @@
 ### short-long-short PHP
 ### correct-the-mistakes-of-the-character-recognition-software PHP
 
-
+### formatting-decimal-places-0 PHP
+### is-your-period-late PHP
 ### simple-multiplication PHP
 ### simple-multiplication C#
 ### adults-only-sql-for-beginners-1 SQL
