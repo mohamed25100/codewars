@@ -94,6 +94,7 @@
 ### short-long-short PHP
 ### correct-the-mistakes-of-the-character-recognition-software PHP
 
+### duck-duck-goose PHP
 ### calculate-price-excluding-vat PHP
 ### formatting-decimal-places-0 PHP
 ### is-your-period-late PHP
