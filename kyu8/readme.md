@@ -94,6 +94,7 @@
 ### short-long-short PHP
 ### correct-the-mistakes-of-the-character-recognition-software PHP
 
+### find-out-whether-the-shape-is-a-cube PHP
 ### simple-calculator PHP
 ### age-range-compatibility-equation PHP
 ### simple-fun-261-whose-move PHP
