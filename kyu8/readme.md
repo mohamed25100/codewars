@@ -94,6 +94,8 @@
 ### short-long-short PHP
 ### correct-the-mistakes-of-the-character-recognition-software PHP
 
+### Function-1-hello-world PHP
+### Function-1-hello-world Python
 ### Exclamation-marks-series-11-Replace-all-vowel-to-exclamation-mark-in-the-sentence PHP
 ### find-out-whether-the-shape-is-a-cube PHP
 ### simple-calculator PHP
