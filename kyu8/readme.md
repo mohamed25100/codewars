@@ -94,6 +94,7 @@
 ### short-long-short PHP
 ### correct-the-mistakes-of-the-character-recognition-software PHP
 
+### triple-trouble PHP
 ### surface-area-and-volume-of-a-box PHP
 ### 8kyu-interpreters-hq9 PHP
 ### simple-fun-1-seats-in-theater PHP
