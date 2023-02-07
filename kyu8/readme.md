@@ -138,3 +138,4 @@
 ### calculate-bmi Swift
 ### even-or-odd SQL
 ### grasshopper-summation Swift
+### reversed-strings Swift
