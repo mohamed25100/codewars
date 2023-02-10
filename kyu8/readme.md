@@ -140,3 +140,4 @@
 ### grasshopper-summation Swift
 ### reversed-strings Swift
 ### function-1-hello-world Swift
+### even-or-odd Swift
