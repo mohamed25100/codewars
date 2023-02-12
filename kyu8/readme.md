@@ -142,3 +142,4 @@
 ### function-1-hello-world Swift
 ### even-or-odd Swift
 ### get-planet-name-by-id Swift
+### square-n-sum swift
