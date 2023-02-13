@@ -143,3 +143,4 @@
 ### even-or-odd Swift
 ### get-planet-name-by-id Swift
 ### square-n-sum swift
+### opposite-number Swift
