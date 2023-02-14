@@ -144,3 +144,4 @@
 ### get-planet-name-by-id Swift
 ### square-n-sum swift
 ### opposite-number Swift
+### sum-mixed-array Swift
