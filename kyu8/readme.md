@@ -159,3 +159,4 @@
 ### string-repeat Swift
 ### you-only-need-one-beginner Swift
 ### digit-digit Swift
+### beginner-series-2-clock Swift
