@@ -160,3 +160,5 @@
 ### you-only-need-one-beginner Swift
 ### digit-digit Swift
 ### beginner-series-2-clock Swift
+### beginner-lost-without-a-map Swift
+### Quarter-of-the-year Swift
