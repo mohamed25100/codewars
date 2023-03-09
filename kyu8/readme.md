@@ -162,3 +162,4 @@
 ### beginner-series-2-clock Swift
 ### beginner-lost-without-a-map Swift
 ### Quarter-of-the-year Swift
+### sum-mixed-array JavaScript
