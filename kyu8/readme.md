@@ -164,3 +164,4 @@
 ### Quarter-of-the-year Swift
 ### sum-mixed-array JavaScript
 ### Get-the-mean-of-an-array Swift
+### simple-multiplication Swift
