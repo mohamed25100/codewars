@@ -167,3 +167,4 @@
 ### simple-multiplication Swift
 ### switch-it-up Swift
 ### sum-the-strings Swift
+### [calculate-bmi JS](calculate-bmi.js)
