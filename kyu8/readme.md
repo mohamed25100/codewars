@@ -168,5 +168,4 @@
 ### switch-it-up Swift
 ### sum-the-strings Swift
 ### [calculate-bmi JS](calculate-bmi.js)
-[calculate-bmi JS](calculate-bmi.js)
 ### [My-head-is-at-the-wrong-end.js](My-head-is-at-the-wrong-end.js)
