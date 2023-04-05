@@ -169,3 +169,4 @@
 ### sum-the-strings Swift
 ### [calculate-bmi JS](calculate-bmi.js)
 ### [My-head-is-at-the-wrong-end.js](My-head-is-at-the-wrong-end.js)
+### [find-out-whether-the-shape-is-a-cube.js](find-out-whether-the-shape-is-a-cube.js)
